@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "commit-naming-convention.helloWorld",
-        "title": "Hello World"
+        "command": "commit-naming-convention.formatCommitMessage",
+        "title": "Format Commit Message"
       }
     ]
   },
